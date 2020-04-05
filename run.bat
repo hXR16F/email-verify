@@ -43,7 +43,6 @@ start /b helper.bat
 	goto :finished 1
 
 :2
-	ping localhost -n 2 >nul
 	set count_2=1
 	for /f "tokens=*" %%i in (emails.txt) do (
 		set /a dummy=!count_2! %% 2
