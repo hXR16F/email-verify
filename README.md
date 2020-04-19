@@ -20,5 +20,4 @@ Logs are saved in `logs` folder.
 <p align="center"><img alt="Screenshot_2" src="https://user-images.githubusercontent.com/48186982/78498524-fdf1f800-774a-11ea-973e-a50a2318a449.png"></p>
 
 # Donate
-If you support my work or like my projects, you can donate me some money. Thank you 💙\
-BTC: `1GZRqMvfAhsHbWAJUKf9EruBPNKqwGAPFU`
+If you support my work or like my projects, [you can donate me some money](https://github.com/hXR16F/donate/blob/master/README.md). Thank you 💙
